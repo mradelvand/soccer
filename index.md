@@ -35,10 +35,3 @@ This blog documents my continuous learning journey.
 
 ---
 
-##  Latest Posts
-
-{% for post in site.posts limit:5 %}
-- [{{ post.title }}]({{ post.url }}) — *{{ post.date | date: "%B %Y" }}*
-{% endfor %}
-
----
