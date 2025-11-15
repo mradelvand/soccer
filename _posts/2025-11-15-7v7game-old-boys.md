@@ -1,5 +1,131 @@
 # soccer
 
+# Positional Coaching Instructions (7v7)
+
+## Goalkeeper (GK)
+
+### 1. Build Up
+- Play wide early.  
+- Distribute quickly to fullbacks or CBs.  
+- Avoid long kicks unless necessary.  
+
+### 2. Loose Ball (Deep)
+- Organize the back line.  
+- Call out gaps.  
+- Be ready to sweep high.  
+
+### 3. Loose Ball (High)
+- Maintain a deeper position.  
+- Communicate the high line with the CB.  
+
+### 4. Final Third
+- Stay focused.  
+- Be ready for long clearances or quick counters.  
+
+---
+
+## Center Back (CB)
+
+### 1. Build Up
+- Step out confidently.  
+- Play quick, two-touch passes into HM or AM.  
+
+### 2. Loose Ball (Deep)
+- Stay central — protect the danger zone.  
+- Don’t get pulled wide.  
+
+### 3. Loose Ball (High)
+- Push up quickly.  
+- Keep a compact, high defensive line.  
+
+### 4. Final Third
+- Hold the line near midfield.  
+- Win second balls and keep the team compressed.  
+
+---
+
+## Right Back (RB) & Left Back (LB)
+
+*Wide two-way players: Gabi/Emil and Alex/Stuart*
+
+### 1. Build Up
+- Push high on the flanks.  
+- Provide wide passing options for CB or HM.  
+
+### 2. Loose Ball (Deep)
+- Track runners.  
+- Tuck in to form a compact back three.  
+
+### 3. Loose Ball (High)
+- Apply immediate pressure on wide receivers.  
+- Cut inside passing lanes.  
+
+### 4. Final Third
+- Create width.  
+- Deliver low, hard crosses or make overlapping runs.  
+
+---
+
+## Holding Midfielder (HM)
+
+### 1. Build Up
+- Constantly show for the ball.  
+- Turn quickly and connect with AM.  
+
+### 2. Loose Ball (Deep)
+- Screen the defense.  
+- Track runners and block passing lanes.  
+
+### 3. Loose Ball (High)
+- Be the safety valve behind the press.  
+- Cover gaps left by AM or Forward.  
+
+### 4. Final Third
+- Stay outside the box for second balls.  
+- Recycle possession or take shots from range.  
+
+---
+
+## Attacking Midfielder (AM)
+
+### 1. Build Up
+- Find pockets between the lines.  
+- Turn quickly and link to the Forward.  
+
+### 2. Loose Ball (Deep)
+- Apply high-intensity pressure.  
+- Force mistakes immediately.  
+
+### 3. Loose Ball (High)
+- Lead the counter-press.  
+- Win the ball early in the attacking half.  
+
+### 4. Final Third
+- Make late runs into the box.  
+- Combine with the Forward and finish when possible.  
+
+---
+
+## Forward (F)
+
+### 1. Build Up
+- Stay high to pin defenders.  
+- Create space for midfielders.  
+
+### 2. Loose Ball (Deep)
+- Apply first pressure.  
+- Force rushed or long passes.  
+
+### 3. Loose Ball (High)
+- Channel play wide or backward.  
+- Block central passing lanes.  
+
+### 4. Final Third
+- Attack space aggressively.  
+- Demand the ball and finish decisively.  
+
+---
+
 ## ⚽ Game Plan & Coaching Instructions (Sub Team 1)
 
 ### 🎯 Core Game Plan (Unchanged)
