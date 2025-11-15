@@ -31,7 +31,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-mermaid
 
 titles_from_headings:
   strip_title: true
@@ -40,7 +39,6 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: post
     values:
-      layout: "post"
-      tags: ["General"]
+      tags: Other
