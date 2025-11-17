@@ -1,5 +1,11 @@
-# soccer
+---
+title: "A Game Story & Keep the Attacker Wide Drill "
+date: 2025-11-17
+categories: [Soccer Training, Coaching]
+tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
+---
 
+# Match Day Notes – 15 Nov 2025 (Sat)
 # Positional Coaching Instructions (7v7)
 
 ## Goalkeeper (GK)
@@ -126,113 +132,80 @@
 
 ---
 
-## ⚽ Game Plan & Coaching Instructions (Sub Team 1)
+## ⚽ Game Plan 
 
 ### 🎯 Core Game Plan (Unchanged)
 - **Formation:** 1-3-2-1  
 - **Style:** Two-touch football  
-- **Movement:** Constant off-the-ball shifting  
-- **Finishing:** Every play ends with a shot  
+- **Movement:** Constant off-the-ball shifting
 
 ---
 
-## 🧱 Starting Lineup (Sub Team 1)
+## 🧱 Starting Lineup (Old-boys)
 
 | Position | Player  |
-|---------|---------|
-| GK      | Thomas  |
-| CB      | Massi   |
-| RB      | Gabi    |
-| LB      | Alex    |
-| HM      | Colin   |
-| AM      | Anthony |
-| F       | Tyler   |
+|---------|-----------------|
+| GK      | Thomas          |
+| CB      | Massi/Chekna    |
+| RB      | Gabi/Emil       |
+| LB      | Alex/Stuart     |
+| HM      | Colin           |
+| AM      | Theo            |
+| F       | Step/Dex        |
+
+---
+---
+
+### Phase 1 – First Half  
+**Ball Possession & Build-Up:**  
+Smooth two-touch play kept control and dictated tempo.  
+
+**Final Third:**  
+Created several good chances — Step and Theo/Dex consistently threatened the defense.  
+
+**Defense (Deep):**  
+The CB/HM shield worked well, but full backs (RB/LB) were slower recovering on counters, leading to a late goal and a 2–1 deficit just before halftime.  
+
+**Takeaway:**  
+Improve flank discipline and maintain focus when defending in the closing minutes of each half.  
 
 ---
 
-## 📣 Coach's Quick Instructions by Phase
+### Phase 2 – Second Half Adjustments  
+**Tactic:**  
+Shifted from 1 CB / 2 WB to 2 CB / 1 WB for stronger central cover and more aggressive pressing.  
+
+**Result:**  
+Scored from a corner. Dexter attacked the second post perfectly — leveling it 2–2.  
+
+**Takeaways:**  
+- Wide defenders must force opponents wide and recover quickly.  
+- Maintain total focus in danger moments (five minutes before and after halves).  
+- Work on shooting accuracy to convert more chances.  
 
 ---
+## Main Takeaway Drill: Keep the Attacker Wide  
 
-# **1. Build-Up from Defense (When in Possession)**  
-**Objective:** Quick, clean two-touch distribution & controlled movement.
+This drill helps defenders control play by steering attackers away from goal and into the wide areas. It reduces dangerous shots and gives teammates time to recover and support.  
 
-| Player | Instruction | Phase Role |
-|--------|-------------|------------|
-| **Thomas (GK)** | “Thomas, play wide early! Find the fullbacks or Massi’s feet.” | Initial Playmaker |
-| **Massi (CB)** | “Massi, step out, head up! Sharp passes into Colin or Anthony.” | Primary Distributor |
-| **Gabi (RB)** | “Gabi, push high on the wing. Be an outlet—don’t drop too deep.” | Attacking Width |
-| **Alex (LB)** | “Alex, play through the lines into Anthony. Stretch the field.” | Attacking Outlet |
-| **Colin (HM)** | “Colin, show constantly! Be the pivot and move it quickly.” | Tempo Controller |
-| **Anthony (AM)** | “Anthony, find pockets between lines—receive, turn, attack.” | Creative Link |
-| **Tyler (F)** | “Tyler, stay high and pin their center back. Ask for the ball.” | Stretching the Defense |
+### The Setup  
+- **Area:** Half pitch  
+- **Equipment:** 3 cones, 2 balls, 1 goal  
 
----
+### How It Works  
+1. The defender starts by passing the ball diagonally into a wide area to simulate a game scenario.
+<img width="358" height="280" alt="Screenshot from 2025-11-17 16-35-55" src="https://github.com/user-attachments/assets/608a6e6a-bb7d-4095-b36f-759430aef0bd" />
 
-# **2. When We Lose the Ball in Defense (Deep Defensive Transition)**  
-**Objective:** Immediate pressure + protect central areas.
+2. As soon as the ball moves, both the defender and attacker race toward it — the defender aiming to recover first and get between the attacker and goal.  
+3. The defender pressures the attacker quickly, staying goalside and guiding play along the touchline rather than letting the attacker cut inside. 
+<img width="360" height="584" alt="image" src="https://github.com/user-attachments/assets/08db115d-182b-4f00-a5d5-41b31fb4141a" />
 
-| Player | Instruction | Phase Role |
-|--------|-------------|------------|
-| **Thomas (GK)** | “Thomas, shout the gaps! Organize, stay big.” | Last Line Organizer |
-| **Massi (CB)** | “Massi, stay central—protect the house.” | Central Anchor |
-| **Gabi (RB)** | “Gabi, track your runner instantly!” | Flank Defender |
-| **Alex (LB)** | “Alex, tuck in! Create a compact back three.” | Flank Defender |
-| **Colin (HM)** | “Colin, screen the backline—cut passing lanes.” | Interceptor/Shield |
-| **Anthony (AM)** | “Anthony, press immediately—force a backward pass.” | Immediate Press |
-| **Tyler (F)** | “Tyler, delay their attack—push play to the wings.” | First Line of Defense |
 
----
+### Key Coaching Calls  
+- “Keep play in wide areas!”  
+- “Stay on your feet!”  
+- “Block the cross or shot!”  
 
-# **3. When We Lose the Ball High Upfield (Attacking Transition – High Press)**  
-**Objective:** Counter-press aggressively or block the counter.
 
-| Player | Instruction | Phase Role |
-|--------|-------------|------------|
-| **Massi (CB)** | “Massi, push up—control the high line.” | High Line Setter |
-| **Gabi (RB)** | “Gabi, press their winger fast—don’t let them turn.” | Wing Press |
-| **Alex (LB)** | “Alex, cut the wide passing lane—force inside.” | Wing Press |
-| **Colin (HM)** | “Colin, cover behind Anthony/Tyler if they press.” | Midfield Cover |
-| **Anthony (AM)** | “Anthony, GO! Win it high!” | Counter-Press Leader |
-| **Tyler (F)** | “Tyler, shut the middle—force backwards.” | Channeling the Play |
-
----
-
-# **4. Attacking in the Final Third (Finishing Phase)**  
-**Objective:** High tempo, high movement, high shot volume.
-
-| Player | Instruction | Phase Role |
-|--------|-------------|------------|
-| **Massi (CB)** | “Massi, step to halfway—keep us compressed.” | Defensive Support |
-| **Gabi (RB)** | “Gabi, deliver low, hard crosses or hit the end line!” | Crossing Threat |
-| **Alex (LB)** | “Alex, overlap and stretch the width!” | Overlapping Threat |
-| **Colin (HM)** | “Colin, step in for rebounds—shoot when open!” | Second Ball/Recycler |
-| **Anthony (AM)** | “Anthony, late box runs—support Tyler!” | Assister/Support |
-| **Tyler (F)** | “Tyler, SHOOT! Attack every cross.” | Main Goal Scorer |
-
----
-
-# 🔁 **Substitution Instructions (After 7–8 Minutes)**
-
-| Starter Out | Sub In | Position | Instruction |
-|-------------|--------|----------|-------------|
-| Thomas (GK) | No Sub (if not needed) | GK | “Thomas, stay warm and alert.” |
-| Massi (CB)  | Chekna | CB | “Chekna, anchor the defense—two-touch only.” |
-| Gabi (RB)   | Emil   | RB | “Emil, be the engine—attack and deliver crosses.” |
-| Alex (LB)   | Stuart | LB | “Stuart, support Chekna and push forward with width.” |
-| Colin (HM)  | Theo   | HM | “Theo, connect defense to attack—stay central.” |
-| Anthony (AM)| Mo     | AM | “Mo, find pockets and link with Stepan.” |
-| Tyler (F)   | Stepan | F | “Stepan, high press + high shot volume—finish everything.” |
-
----
-
-### 🔥 Coaching Reminder
-When subs enter, emphasize:
-- **Maintain the same intensity**
-- **Keep two-touch football**
-- **Hold formation shape**
-- **End every attack with a SHOT**
-
-This ensures continuity, rhythm, and consistent pressure.
 
 ---
