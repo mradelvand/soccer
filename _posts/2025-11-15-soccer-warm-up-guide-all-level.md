@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Dynamic Soccer Warm-Up Guide for Coaches"
 date: 2025-11-15
-categories: [Soccer Training, Coaching]
+categories: [Soccer Training, Coaching, game-story]
 tags: [Warm-Up, Dynamic Stretching, Soccer, Agility, Youth Coaching, All Levels]
 ---
 
