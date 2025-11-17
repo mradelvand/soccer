@@ -21,7 +21,7 @@ email: "mradelvand@gmail.com"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-baseurl: "/aws"
+baseurl: "/soccer"
 rss: rss
 
 kramdown:
