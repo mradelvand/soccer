@@ -10,6 +10,7 @@ Welcome to my personal documentation space.
 ##  Explore by Category
 
 - [warm-up](archive.html#warm-up)
+- [game-story](archive.html#game-story)
 
 
 > [📁 Blog Archive](archive.html).
