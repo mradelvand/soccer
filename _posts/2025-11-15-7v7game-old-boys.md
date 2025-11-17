@@ -1,7 +1,7 @@
 ---
 title: "A Game Story & Keep the Attacker Wide Drill "
 date: 2025-11-17
-categories: [Soccer Training, Coaching]
+categories: [Soccer Training, Coaching, game-story]
 tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 ---
 
