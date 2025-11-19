@@ -8,7 +8,46 @@ tags: [7v7, Dynamic Stretching, Soccer, Youth Coaching]
 # Match Day Notes – 15 Nov 2025 (Sat)
 
 
-## 📋 Positional Coaching Instructions (7v7)
+## Positional Coaching Instructions (7v7)
+
+> Click on each position for more detailed information ; Each position is grouped with collapsible sections.
+
+<details> <summary><strong>🧤 Goalkeeper (GK)</strong></summary>
+
+1-3-2-1:
+
+Wide early
+
+Quick to fullbacks/CB
+
+Avoid long kicks
+
+Organize line, call gaps
+
+Sweep high
+
+Communicate high line
+
+Ready for counters
+
+1-2-3-1:
+
+Play wide early
+
+Quick to fullbacks/CB
+
+Avoid risky passes
+
+Ready for clearances/counters
+
+Difference: Very similar; 1-2-3-1 stresses safer distribution.
+
+</details>
+<details> <summary><strong>🧱 Center Back (CB)</strong></summary>
+
+1-3-2-1:
+
+Step out confidently
 
 2-touch to HM/AM
 
@@ -214,18 +253,36 @@ Finish confidently
 
 Difference: 1-2-3-1 forward creates space for midfield more intentionally.
 
-</details>
+</details>give 
 
-## ⚽ Game Plan 
+## ⚽ Game Plan summary — What Coaches Should Know
 
-### 🎯 Core Game Plan
-- **Formation:** 1-3-2-1 and 1-2-3-1 
-- **Style:** Two-touch football  
-- **Movement:** Constant off-the-ball shifting
+### 1-3-2-1
+- *is tighter, more **compact**, and ideal for **teams that want simple roles, strong central protection, and quick transitions**. 
+
+### 1-2-3-1
+- adds more **width and more passing options**, making it better for possession play, structured pressing, and wide combinations.
+
+- **Key Differences:** 
+
+- **Fullbacks**: 1-2-3-1 supports CBs more as safe wide outlets.
+
+- **Midfield**: 1-2-3-1 adds RM/LM and a CM, providing natural width and more options between lines.
+
+- **HM Role**: 1-2-3-1 focuses more on covering behind the press.
+
+- **Forward**: 1-2-3-1 striker helps create space for midfielders more than in 1-3-2-1.
+
+- **GK**: Almost identical roles, with 1-2-3-1 emphasizing lower-risk distribution.
+
+### Coaching Takeaway
+
+Use **1-3-2-1** for structure, compactness, and simplicity.
+Use **1-2-3-1** when you want width, better pressing layers, and more passing triangles.
 
 ---
 
-## 🧱 Starting Lineup (Old-boys)
+## Starting Lineup (Old-boys)
 
 | Position | Player-1st half| Position | Player-2nd half|
 |---------|-----------------|--------|-----------------|
