@@ -173,10 +173,10 @@ Improve flank discipline and maintain focus when defending in the closing minute
 
 ### Phase 2 – Second Half Adjustments  
 **Tactic:**  
-Shifted from 1 CB / 2 WB to 2 CB / 1 WB for stronger central cover and more aggressive pressing.  
+Shifted from 1 CB / 2 WB to 2 CB / 1 W for stronger central cover and more aggressive pressing.  
 
 **Result:**  
-Scored from a corner. Dexter attacked the second post perfectly — leveling it 2–2.  
+Scored from a corner. Dexter (W) attacked the second post perfectly — leveling it 2–2.  
 
 **Takeaways:**  
 - Wide defenders must force opponents wide and recover quickly.  
