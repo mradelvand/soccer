@@ -258,7 +258,7 @@ Difference: 1-2-3-1 forward creates space for midfield more intentionally.
 ## ⚽ Game Plan summary — What Coaches Should Know
 
 ### 1-3-2-1
-- *is tighter, more **compact**, and ideal for **teams that want simple roles, strong central protection, and quick transitions**. 
+- is tighter, more **compact**, and ideal for **teams that want simple roles, strong central protection, and quick transitions**. 
 
 ### 1-2-3-1
 - adds more **width and more passing options**, making it better for possession play, structured pressing, and wide combinations.
