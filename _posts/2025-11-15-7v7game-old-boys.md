@@ -1,7 +1,7 @@
 ---
 title: "A Game Story & Keep the Attacker Wide Drill "
 date: 2025-11-17
-categories: [Soccer Training, Coaching,Match Day Notes]
+categories: [Soccer Training, Coaching, Match Day Notes]
 tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 ---
 
@@ -94,7 +94,7 @@ tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 | F       | Step/Dex        | F      | Step            |
 
 
-<img width="2876" height="4277" alt="old-boys-line-up excalidraw" src="https://github.com/user-attachments/assets/e5ab6519-7bb4-41fa-8c9f-f5b7d8f9fb90" />
+<img width="958" height="1425" alt="old-boys-line-up excalidraw(2)" src="https://github.com/user-attachments/assets/b1a5324f-72b1-4f05-8080-da7de85bab5f" />
 
 ---
 
