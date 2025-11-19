@@ -94,7 +94,8 @@ tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 | F       | Step/Dex        | F      | Step            |
 
 
-<img width="958" height="1425" alt="old-boys-line-up excalidraw(2)" src="https://github.com/user-attachments/assets/b1a5324f-72b1-4f05-8080-da7de85bab5f" />
+<img width="579" height="858" alt="old-boys-line-up excalidraw(4)" src="https://github.com/user-attachments/assets/7bb9075e-7a6e-41ec-8438-6f280cd16dfe" />
+
 
 ---
 
