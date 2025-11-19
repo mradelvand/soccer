@@ -6,131 +6,71 @@ tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 ---
 
 # Match Day Notes – 15 Nov 2025 (Sat)
-# Positional Coaching Instructions (7v7)
 
-## Goalkeeper (GK)
 
-### 1. Build Up
-- Play wide early.  
-- Distribute quickly to fullbacks or CBs.  
-- Avoid long kicks unless necessary.  
+## 📋 Positional Coaching Instructions (7v7)
+**Formation: 1–3–2–1**
 
-### 2. Loose Ball (Deep)
-- Organize the back line.  
-- Call out gaps.  
-- Be ready to sweep high.  
+<details>
+<summary>🧤 Goalkeeper (GK)</summary>
 
-### 3. Loose Ball (High)
-- Maintain a deeper position.  
-- Communicate the high line with the CB.  
+**Build Up:** Play wide early; quick to FB/CB  
+**LBall (Deep):** Organize line; call gaps; sweep  
+**LBall (High):** Stay deep; communicate high line  
+**Final Third:** Stay focused; ready for counters  
 
-### 4. Final Third
-- Stay focused.  
-- Be ready for long clearances or quick counters.  
+</details>
 
----
+<details>
+<summary>🧱 Center Back (CB)</summary>
 
-## Center Back (CB)
+**Build Up:** Step out; 2-touch passes to HM/AM  
+**LBall (Deep):** Stay central; protect danger zone  
+**LBall (High):** Push line; keep compact  
+**Final Third:** Hold line; win 2nd balls; compress  
 
-### 1. Build Up
-- Step out confidently.  
-- Play quick, two-touch passes into HM or AM.  
+</details>
 
-### 2. Loose Ball (Deep)
-- Stay central — protect the danger zone.  
-- Don’t get pulled wide.  
+<details>
+<summary>🏃‍♂️ Fullbacks (RB/LB)</summary>
 
-### 3. Loose Ball (High)
-- Push up quickly.  
-- Keep a compact, high defensive line.  
+**Build Up:** Push high; provide width  
+**LBall (Deep):** Track runners; tuck in  
+**LBall (High):** Press wide; cut inside lanes  
+**Final Third:** Overlaps; low crosses; create width  
 
-### 4. Final Third
-- Hold the line near midfield.  
-- Win second balls and keep the team compressed.  
+</details>
 
----
+<details>
+<summary>🛡️ Holding Midfielder (HM)</summary>
 
-## Right Back (RB) & Left Back (LB)
+**Build Up:** Show for ball; connect AM  
+**LBall (Deep):** Screen defense; block lanes  
+**LBall (High):** Cover AM/F gaps  
+**Final Third:** Recycle; outside box; long shots  
 
-*Wide two-way players: Gabi/Emil and Alex/Stuart*
+</details>
 
-### 1. Build Up
-- Push high on the flanks.  
-- Provide wide passing options for CB or HM.  
+<details>
+<summary>🎨 Attacking Midfielder (AM)</summary>
 
-### 2. Loose Ball (Deep)
-- Track runners.  
-- Tuck in to form a compact back three.  
+**Build Up:** Find lines; quick turns  
+**LBall (Deep):** High press; force mistakes  
+**LBall (High):** Counter-press  
+**Final Third:** Late box runs; combine & finish  
 
-### 3. Loose Ball (High)
-- Apply immediate pressure on wide receivers.  
-- Cut inside passing lanes.  
+</details>
 
-### 4. Final Third
-- Create width.  
-- Deliver low, hard crosses or make overlapping runs.  
+<details>
+<summary>🎯 Forward (F)</summary>
 
----
+**Build Up:** Stay high; pin defenders  
+**LBall (Deep):** First pressure  
+**LBall (High):** Channel play wide/back  
+**Final Third:** Attack space; finish decisively  
 
-## Holding Midfielder (HM)
+</details>
 
-### 1. Build Up
-- Constantly show for the ball.  
-- Turn quickly and connect with AM.  
-
-### 2. Loose Ball (Deep)
-- Screen the defense.  
-- Track runners and block passing lanes.  
-
-### 3. Loose Ball (High)
-- Be the safety valve behind the press.  
-- Cover gaps left by AM or Forward.  
-
-### 4. Final Third
-- Stay outside the box for second balls.  
-- Recycle possession or take shots from range.  
-
----
-
-## Attacking Midfielder (AM)
-
-### 1. Build Up
-- Find pockets between the lines.  
-- Turn quickly and link to the Forward.  
-
-### 2. Loose Ball (Deep)
-- Apply high-intensity pressure.  
-- Force mistakes immediately.  
-
-### 3. Loose Ball (High)
-- Lead the counter-press.  
-- Win the ball early in the attacking half.  
-
-### 4. Final Third
-- Make late runs into the box.  
-- Combine with the Forward and finish when possible.  
-
----
-
-## Forward (F)
-
-### 1. Build Up
-- Stay high to pin defenders.  
-- Create space for midfielders.  
-
-### 2. Loose Ball (Deep)
-- Apply first pressure.  
-- Force rushed or long passes.  
-
-### 3. Loose Ball (High)
-- Channel play wide or backward.  
-- Block central passing lanes.  
-
-### 4. Final Third
-- Attack space aggressively.  
-- Demand the ball and finish decisively.  
-
----
 
 ## ⚽ Game Plan 
 
@@ -143,17 +83,19 @@ tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
 
 ## 🧱 Starting Lineup (Old-boys)
 
-| Position | Player  |
-|---------|-----------------|
-| GK      | Thomas          |
-| CB      | Massi/Chekna    |
-| RB      | Gabi/Emil       |
-| LB      | Alex/Stuart     |
-| HM      | Colin           |
-| AM      | Theo            |
-| F       | Step/Dex        |
+| Position | Player-1st half| Position | Player-2nd half|
+|---------|-----------------|--------|-----------------|
+| GK      | Thomas          | GK     | Thomas          |
+| CB      | Massi/Chekna    | CB      | Massi/Chekna   |  
+| RB      | Gabi/Emil       | CB      | Stuart /Chekna |
+| LB      | Alex/Stuart     | LM     | Gabi/Theo       |      
+| HM      | Colin           | RM     | Dexter/Emil     |
+| AM      | Theo            | CM     | Colin           |
+| F       | Step/Dex        | F      | Step            |
 
----
+
+<img width="2876" height="4277" alt="old-boys-line-up excalidraw" src="https://github.com/user-attachments/assets/e5ab6519-7bb4-41fa-8c9f-f5b7d8f9fb90" />
+
 ---
 
 ### Phase 1 – First Half  
