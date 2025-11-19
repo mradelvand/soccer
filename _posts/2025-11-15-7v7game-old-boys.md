@@ -2,7 +2,7 @@
 title: "A Game Story & Keep the Attacker Wide Drill "
 date: 2025-11-17
 categories: [Soccer Training, Coaching, Match Day Notes]
-tags: [7v7, Dynamic Stretching, Soccer, Agility, Youth Coaching]
+tags: [7v7, Dynamic Stretching, Soccer, Youth Coaching]
 ---
 
 # Match Day Notes – 15 Nov 2025 (Sat)
