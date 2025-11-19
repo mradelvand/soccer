@@ -9,74 +9,28 @@ tags: [7v7, Dynamic Stretching, Soccer, Youth Coaching]
 
 
 ## 📋 Positional Coaching Instructions (7v7)
-**Formation: 1–3–2–1**
 
-<details>
-<summary>🧤 Goalkeeper (GK)</summary>
+| Position                      | 1-3-2-1 Coaching Focus                                                                                                  | 1-2-3-1 Coaching Focus                                                                                                     | Main Difference Highlighted                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| GK                            | Wide early, quick to fullbacks/CB, avoid long kicks; organize, call gaps, sweep high; communicate high line; counters   | Play wide early, quick to fullbacks/CB, avoid risky passes; ready for clearances/counters                                  | Very similar roles; nuanced emphasis on risk in distribution        |
+| Center Back (CB)              | Step out with confidence, 2-touch passes to HM/AM; stay central, protect; push line, keep compact; hold line & compress | Step out, 2-touch to mids; stay central, protect; push line, keep compact; hold line, win 2nd balls, compress              | Similar, but 1-2-3-1 is more focused on distributing to “mids”      |
+| Fullbacks (RB/LB)             | Push high, provide width; track runners, tuck in; press wide, cut lanes; overlaps, deliver low crosses, create width    | Push high, safe wide options for CB/GK; track runners, tuck in close to CB; press wide, cut inside; overlap, keep width    | 1-2-3-1 fullbacks emphasize supporting the CB as safe outlet        |
+| Holding Midfielder (HM)       | Show for ball, connect AM; screen, block lanes; cover AM/F gaps; recycle, outside box, long shots                       | Always show for ball, connect defense to attack; screen defense, block danger; cover behind press; recycle, long shots     | 1-2-3-1 HM aids defense-to-attack transition; covers “behind press” |
+| Central Midfielder (CM)       | N/A (Not present in 1-3-2-1)                                                                                            | Provide width, offer options ahead of fullbacks; support defense; counter-press, combine with AM/F                         | 1-2-3-1 uses wide/central mids, expanding options/wider play        |
+| Right/Left Midfielder (RM/LM) | N/A                                                                                                                     | Provide width, late support in attack, combine with AM/F                                                                   | Only in 1-2-3-1, giving more width and attacking support            |
+| Attacking Midfielder (AM)     | Find lines, quick turns; high press, force mistakes; counter-press; late box runs, combine & finish                     | Find lines between mids and attack, turn quickly; lead pressure, force mistakes; drive at back line; arrive late, finish   | Similar but more integrated with mids/attack in 1-2-3-1             |
+| Forward (F)                   | Stay high, pin defenders; first pressure; channel play, block lanes; attack space, finish                               | Stay high, pin, create space for others; first pressure, shape play wide; block lanes, force play wide/back; attack/finish | 1-2-3-1 forward involved more in creating space for others          |
 
-**Build Up:** Play wide early; quick to FB/CB  
-**LBall (Deep):** Organize line; call gaps; sweep  
-**LBall (High):** Stay deep; communicate high line  
-**Final Third:** Stay focused; ready for counters  
+---
 
-</details>
-
-<details>
-<summary>🧱 Center Back (CB)</summary>
-
-**Build Up:** Step out; 2-touch passes to HM/AM  
-**LBall (Deep):** Stay central; protect danger zone  
-**LBall (High):** Push line; keep compact  
-**Final Third:** Hold line; win 2nd balls; compress  
-
-</details>
-
-<details>
-<summary>🏃‍♂️ Fullbacks (RB/LB)</summary>
-
-**Build Up:** Push high; provide width  
-**LBall (Deep):** Track runners; tuck in  
-**LBall (High):** Press wide; cut inside lanes  
-**Final Third:** Overlaps; low crosses; create width  
-
-
-</details>
-
-<details>
-<summary>🛡️ Holding Midfielder (HM)</summary>
-
-**Build Up:** Show for ball; connect AM  
-**LBall (Deep):** Screen defense; block lanes  
-**LBall (High):** Cover AM/F gaps  
-**Final Third:** Recycle; outside box; long shots  
-
-</details>
-
-<details>
-<summary>🎨 Attacking Midfielder (AM)</summary>
-
-**Build Up:** Find lines; quick turns  
-**LBall (Deep):** High press; force mistakes  
-**LBall (High):** Counter-press  
-**Final Third:** Late box runs; combine & finish  
-
-</details>
-
-<details>
-<summary>🎯 Forward (F)</summary>
-
-**Build Up:** Stay high; pin defenders  
-**LBall (Deep):** First pressure  
-**LBall (High):** Channel play wide/back  
-**Final Third:** Attack space; finish decisively  
-
-</details>
+**Formation: 1–2–3–1**
+**2nd half**
 
 
 ## ⚽ Game Plan 
 
-### 🎯 Core Game Plan (Unchanged)
-- **Formation:** 1-3-2-1  
+### 🎯 Core Game Plan
+- **Formation:** 1-3-2-1 and 1-2-3-1 
 - **Style:** Two-touch football  
 - **Movement:** Constant off-the-ball shifting
 
