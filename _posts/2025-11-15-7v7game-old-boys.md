@@ -253,7 +253,7 @@ Finish confidently
 
 Difference: 1-2-3-1 forward creates space for midfield more intentionally.
 
-</details>give 
+</details>
 
 ## ⚽ Game Plan summary — What Coaches Should Know
 
