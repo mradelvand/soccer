@@ -33,11 +33,13 @@ tags: [7v7, Dynamic Stretching, Soccer, Youth Coaching]
 
 <details>
 <summary>🏃‍♂️ Fullbacks (RB/LB)</summary>
+🏃‍♂️ **Fullbacks (RB/LB)**  
 
 **Build Up:** Push high; provide width  
 **LBall (Deep):** Track runners; tuck in  
 **LBall (High):** Press wide; cut inside lanes  
 **Final Third:** Overlaps; low crosses; create width  
+
 
 </details>
 
