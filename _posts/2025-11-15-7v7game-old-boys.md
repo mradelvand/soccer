@@ -10,22 +10,211 @@ tags: [7v7, Dynamic Stretching, Soccer, Youth Coaching]
 
 ## 📋 Positional Coaching Instructions (7v7)
 
-| Position                      | 1-3-2-1 Coaching Focus                                                                                                  | 1-2-3-1 Coaching Focus                                                                                                     | Main Difference Highlighted                                         |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| GK                            | Wide early, quick to fullbacks/CB, avoid long kicks; organize, call gaps, sweep high; communicate high line; counters   | Play wide early, quick to fullbacks/CB, avoid risky passes; ready for clearances/counters                                  | Very similar roles; nuanced emphasis on risk in distribution        |
-| Center Back (CB)              | Step out with confidence, 2-touch passes to HM/AM; stay central, protect; push line, keep compact; hold line & compress | Step out, 2-touch to mids; stay central, protect; push line, keep compact; hold line, win 2nd balls, compress              | Similar, but 1-2-3-1 is more focused on distributing to “mids”      |
-| Fullbacks (RB/LB)             | Push high, provide width; track runners, tuck in; press wide, cut lanes; overlaps, deliver low crosses, create width    | Push high, safe wide options for CB/GK; track runners, tuck in close to CB; press wide, cut inside; overlap, keep width    | 1-2-3-1 fullbacks emphasize supporting the CB as safe outlet        |
-| Holding Midfielder (HM)       | Show for ball, connect AM; screen, block lanes; cover AM/F gaps; recycle, outside box, long shots                       | Always show for ball, connect defense to attack; screen defense, block danger; cover behind press; recycle, long shots     | 1-2-3-1 HM aids defense-to-attack transition; covers “behind press” |
-| Central Midfielder (CM)       | N/A (Not present in 1-3-2-1)                                                                                            | Provide width, offer options ahead of fullbacks; support defense; counter-press, combine with AM/F                         | 1-2-3-1 uses wide/central mids, expanding options/wider play        |
-| Right/Left Midfielder (RM/LM) | N/A                                                                                                                     | Provide width, late support in attack, combine with AM/F                                                                   | Only in 1-2-3-1, giving more width and attacking support            |
-| Attacking Midfielder (AM)     | Find lines, quick turns; high press, force mistakes; counter-press; late box runs, combine & finish                     | Find lines between mids and attack, turn quickly; lead pressure, force mistakes; drive at back line; arrive late, finish   | Similar but more integrated with mids/attack in 1-2-3-1             |
-| Forward (F)                   | Stay high, pin defenders; first pressure; channel play, block lanes; attack space, finish                               | Stay high, pin, create space for others; first pressure, shape play wide; block lanes, force play wide/back; attack/finish | 1-2-3-1 forward involved more in creating space for others          |
+2-touch to HM/AM
 
----
+Stay central
 
-**Formation: 1–2–3–1**
-**2nd half**
+Protect danger zone
 
+Push line
+
+Keep compact
+
+Hold line & compress
+
+1-2-3-1:
+
+Step out & distribute to mids
+
+Stay central, protect
+
+Push line, keep compact
+
+Win 2nd balls
+
+Compress space
+
+Difference: 1-2-3-1 CB distributes more to a wider group of mids.
+
+</details>
+<details> <summary><strong>🏃‍♂️ Fullbacks (RB/LB)</strong></summary>
+
+1-3-2-1:
+
+Push high
+
+Provide width
+
+Track runners
+
+Tuck in
+
+Press wide
+
+Cut inside lanes
+
+Overlap & low crosses
+
+1-2-3-1:
+
+Push high
+
+Act as safe wide option for CB/GK
+
+Track runners
+
+Tuck in close to CB
+
+Press wide; cut inside
+
+Maintain width
+
+Difference: 1-2-3-1 fullbacks support CB more as safe outlets.
+
+</details>
+<details> <summary><strong>🛡️ Holding Midfielder (HM)</strong></summary>
+
+1-3-2-1:
+
+Show for ball
+
+Connect to AM
+
+Screen defense
+
+Block lanes
+
+Cover AM/F gaps
+
+Recycle
+
+Long shots
+
+1-2-3-1:
+
+Connect defense → attack
+
+Screen danger zone
+
+Cover behind press
+
+Recycle
+
+Long shots
+
+Difference: 1-2-3-1 HM supports transitions & “behind press” coverage.
+
+</details>
+<details> <summary><strong>🎯 Central Midfielder (CM)</strong></summary>
+
+1-3-2-1:
+
+N/A
+
+1-2-3-1:
+
+Provide width
+
+Offer options ahead of fullbacks
+
+Support defense
+
+Counter-press
+
+Combine with AM/F
+
+Difference: Only in 1-2-3-1 — adds width + support between lines.
+
+</details>
+<details> <summary><strong>⚡ RM/LM (Wide Midfielders)</strong></summary>
+
+1-3-2-1:
+
+N/A
+
+1-2-3-1:
+
+Provide width
+
+Support defense
+
+Counter-press
+
+Late attacking runs
+
+Combine with AM/F
+
+Difference: Exclusive to 1-2-3-1 — adds natural width & wider attacks.
+
+</details>
+<details> <summary><strong>🎨 Attacking Midfielder (AM)</strong></summary>
+
+1-3-2-1:
+
+Find lines
+
+Quick turns
+
+High press
+
+Force mistakes
+
+Counter-press
+
+Late runs
+
+Combine & finish
+
+1-2-3-1:
+
+Find gaps between mids & attack
+
+Lead pressure
+
+Force mistakes
+
+Drive at back line
+
+Late runs & finish
+
+Difference: More integrated with mids in 1-2-3-1.
+
+</details>
+<details> <summary><strong>🚀 Forward (F)</strong></summary>
+
+1-3-2-1:
+
+Stay high
+
+Pin defenders
+
+First pressure
+
+Channel play
+
+Block lanes
+
+Attack space & finish
+
+1-2-3-1:
+
+Stay high
+
+Pin defenders
+
+Create space for others
+
+First pressure
+
+Shape play wide/back
+
+Block central lanes
+
+Finish confidently
+
+Difference: 1-2-3-1 forward creates space for midfield more intentionally.
+
+</details>
 
 ## ⚽ Game Plan 
 
