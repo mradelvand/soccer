@@ -8,8 +8,8 @@ Welcome to my personal documentation space.
 
 
 ##  Explore by Category
-
-- [warm-up](archive.html#warm-up)
+- [U10 Training Plans](archive.html#U10-Training-Plans)
+- [all level Warm-up](archive.html#warm-up)
 - [Match Day Notes](archive.html#match-day-notes)
 
 
